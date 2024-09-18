@@ -6,4 +6,9 @@
 
 😄 - I am 13 years old.
 
+<img align="center" alt="Rafa-Python" height="140" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
+
+##
+
+![imarcoobs GitHub stats](https://github-readme-stats.vercel.app/api?username=imarcoobs&show_icons=true)
 
