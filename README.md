@@ -6,7 +6,6 @@
 
 😄 - I'm 13 years old.
 
-
 <img align="center" alt="Rafa-Python" height="20" width="17" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> - I would like to work with development of Software, specificifically with Python, because I love python.
 
 <img align="center" alt="Rafa-Python" height="140" width="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg"> 
